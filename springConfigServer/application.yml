@@ -6,7 +6,7 @@ server:
   port: 7073
 spring:
   application:
-    name: zuuls
+    name: zuulsqweqeqweqweqe
 zuul:
   routes:
     api-a:
